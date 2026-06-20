@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ian👋
 
-<!--
-**imk24/imk24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Honors Applied Computer Science student at George Mason University with a strong interest in the intersection of cloud, data, and business impact. Specifically, I enjoy working on serverless architectures, building ETL pipelines, and creating dashboards that help organizations understand their data.
 
-Here are some ideas to get you started:
+My current projects combine AWS (S3, Lambda, Glue, Athena) with Power BI to deliver end‑to‑end analytics solutions for real‑world stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured projects
+- [Serverless-ETL-Pipeline-IEP-StudentData](https://github.com/imk24/Serverless-ETL-Pipeline-IEP-StudentData) — S3 → Lambda → Glue → Athena → Power BI
+- [Global Housing Affordability Dashboard](https://github.com/imk24/Global-Housing-Affordibility-Dashboard-1975---2025-) — Power BI
+
+
+## Certifications
+
+<img width="100" height="100" alt="aws-certified-cloud-practitioner(1)" src="https://github.com/user-attachments/assets/50bb9e96-fd67-4e8a-b3a4-1a269b5ac1b4" />
